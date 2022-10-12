@@ -18,7 +18,7 @@
 <a href="https://auth.geeksforgeeks.org/user/maazbinzafer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maazbinzafer" height="30" width="40" /></a>
 <!-- [![@maazbinzafer's Holopin board](https://holopin.me/maazbinzafer)](https://holopin.io/@maazbinzafer) -->
 <!--  (https://holopin.me/maazbinzafer)-->
-  <a href="https://holopin.io/@maazbinzafer" target="blank">< alt="Holopin board" height="30" width="40" /></a>
+  <a href="https://holopin.io/@maazbinzafer" target="blank">< alt="Holopin board" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
