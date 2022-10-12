@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/maazbinzafer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maazbinzafer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/maazbinzafer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maazbinzafer" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/maazbinzafer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maazbinzafer" height="30" width="40" /></a>
-<a href="(https://holopin.me/maazbinzafer)(https://holopin.io/@maazbinzafer)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/holopin.svg" alt="maazbinzafer" height="30" width="40" /></a>
+<a href="(https://holopin.me/maazbinzafer)(https://holopin.io/@maazbinzafer)" target="blank"><img align="center" src="(https://holopin.me/maazbinzafer)(https://holopin.io/@maazbinzafer)" alt="maazbinzafer" height="30" width="40" /></a>
 <!-- [![@maazbinzafer's Holopin board](https://holopin.me/maazbinzafer)](https://holopin.io/@maazbinzafer) -->
 </p>
 
