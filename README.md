@@ -17,7 +17,8 @@
 <a href="https://www.hackerrank.com/maazbinzafer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maazbinzafer" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/maazbinzafer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maazbinzafer" height="30" width="40" /></a>
 <!-- [![@maazbinzafer's Holopin board](https://holopin.me/maazbinzafer)](https://holopin.io/@maazbinzafer) -->
- (https://holopin.me/maazbinzafer)(https://holopin.io/@maazbinzafer)
+<!--  (https://holopin.me/maazbinzafer)-->
+(https://holopin.io/@maazbinzafer)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
